@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/CTNATA/Apuestas-PM5-Update-
+build-by-default: true
+branches:
+- main
+projects:
+  Apuestas-PM5-Update-:
+    path: ""
+...
