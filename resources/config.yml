@@ -1,7 +1,7 @@
 # El porcentaje de la probabilidad se escribe solo en numero, sin %
 probabilidad: 60
 
-# El cooldown debe ir en minutos
+# El cooldown debe ir en segundos
 cooldown: 10
 
 # Mensajes
