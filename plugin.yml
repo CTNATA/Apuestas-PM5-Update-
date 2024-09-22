@@ -1,1 +1,10 @@
+name: apuestas
+version: 2.0.0
+main: Apuestas\Main
+api: 5.0.0
+author: SVega/FixDarlexx
 
+permissions:
+  negro.command.apostar:
+    description: §dprueba §gtu §bsuerte §econ §ael §6dinero
+    default: true
